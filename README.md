@@ -1,5 +1,5 @@
 # ![](https://raw.githubusercontent.com/abbyenredes/abbyenredes/main/Logo_simplificado.png) Hola dev que navegas por mi perfil, soy Abigail 👋
-### | Estudiante de ciberseguridad en 42 Madrid | Dev trainee | marketer | asistente veterinaria (y otros titulos que no caben aquí 🙈) |
+### | Estudiante en 42 Madrid | Dev trainee | marketer | asistente veterinaria (y otros titulos que no caben aquí 🙈) |
 ![](https://raw.githubusercontent.com/abbyenredes/abbyenredes/main/Veterinaria-en-redes-landing-cuad.jpg)
 Te doy una cálida bienvenida a este pequeño tour por mi vida, abróchate el cinturón y disfruta de un viaje a mi pasado y presente, el futuro te lo dejo a ti.
 
@@ -11,7 +11,7 @@ Además de la programación, he tenido la oportunidad de trabajar en distintas �
 
 Siento que mi experiencia en diversas disciplinas me ha dado una perspectiva única en el mundo de la programación. Esto me ha facilitado abordar problemas de manera creativa y efectiva, al mismo tiempo que me ha permitido ser una excelente comunicadora con diferentes públicos.
 
-En mi tiempo libre, disfruto explorando nuevas tecnologías y aplicaciones, y estoy emocionada por seguir desarrollando mis habilidades en programación. Si tienes un proyecto en mente o simplemente quieres hablar sobre programación, no dudes en contactarme por mensaje privado o mediante mi correo electrónico abbyenredes@gmail.com.
+En mi tiempo libre, disfruto explorando nuevas tecnologías y aplicaciones, y estoy emocionada por seguir desarrollando mis habilidades en programación. Si tienes un proyecto en mente o simplemente quieres hablar sobre programación, no dudes en contactarme mediante mi correo electrónico abbyenredes@gmail.com o por mi LinkedIn.
 
 Gracias por visitar mi perfil y espero contar contigo en un futuro no muy lejano 🚀.
 
