@@ -1,5 +1,5 @@
 # ![](https://raw.githubusercontent.com/abbyenredes/abbyenredes/main/Logo_simplificado.png) Hola dev que navegas por mi perfil, soy Abigail 👋
-### | Estudiante en 42 Madrid | Dev Rookie | marketer | asistente veterinaria (y otros titulos que no caben aquí 🙈) |
+### | Estudiante de IA | Dev Rookie | marketer | asistente veterinaria (y otros titulos que no caben aquí 🙈) |
 ![](https://raw.githubusercontent.com/abbyenredes/abbyenredes/main/Veterinaria-en-redes-landing-cuad.jpg)
 Te doy una cálida bienvenida a este pequeño tour por mi vida, abróchate el cinturón y disfruta de un viaje a mi pasado y presente, el futuro te lo dejo a ti.
 
