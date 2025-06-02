@@ -18,3 +18,5 @@ Gracias por visitar mi perfil y espero contar contigo en un futuro no muy lejano
 ## Tecnologías:
 [![C](https://img.shields.io/badge/-blue?logo=c)](https://www.learn-c.org/)
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
+![lenguajes mas usados](https://github-readme-stats.vercel.app/api/top-langs/?username=abbyenredes&layout=compact&theme=radical)
