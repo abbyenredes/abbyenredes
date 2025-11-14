@@ -7,7 +7,7 @@ Desde una edad temprana, he estado interesada en la tecnología y la informátic
 
 Durante mi tiempo como asistente veterinaria, pude ver de primera mano cómo los procesos de las clínicas podían ser mejorados y optimizados con la ayuda de la tecnología. Fue entonces cuando en plena pandemia decidí embarcarme en mi proyecto de digitalización de clínicas veterinarias.
 
-Además de la programación, he tenido la oportunidad de trabajar en distintas áreas. He trabajado como auxiliar de enfermeria, lo que me ha dado una visión única en la aplicación de la tecnología en el cuidado de la salud. También he trabajado en marketing y publicidad, lo que me ha permitido comprender cómo las tecnologías digitales pueden ayudar a las empresas a alcanzar sus objetivos.
+Además de la programación, he tenido la oportunidad de trabajar en distintas áreas. He trabajado en enfermeria, lo que me ha dado una visión única en la aplicación de la tecnología en el cuidado de la salud. También he trabajado en marketing y publicidad, lo que me ha permitido comprender cómo las tecnologías digitales pueden ayudar a las empresas a alcanzar sus objetivos.
 
 Siento que mi experiencia en diversas disciplinas me ha dado una perspectiva única en el mundo de la programación. Esto me ha facilitado abordar problemas de manera creativa y efectiva, al mismo tiempo que me ha permitido ser una excelente comunicadora con diferentes públicos.
 
