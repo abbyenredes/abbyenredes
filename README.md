@@ -1,6 +1,7 @@
 # ![](https://raw.githubusercontent.com/abbyenredes/abbyenredes/main/Logo_simplificado.png) Hola dev que navegas por mi perfil, soy Abigail 👋
 ### | Estudiante de IA | Dev Rookie | marketer | asistente veterinaria (y otros titulos que no caben aquí 🙈) |
 ![](https://raw.githubusercontent.com/abbyenredes/abbyenredes/main/Veterinaria-en-redes-landing-cuad.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbyenredes&label=Vistas%20Perfil&color=0e75b6&style=flat" alt="abbyenredes" /> </p>
 Te doy una cálida bienvenida a este pequeño tour por mi vida, abróchate el cinturón y disfruta de un viaje a mi pasado y presente, el futuro te lo dejo a ti.
 
 Desde una edad temprana, he estado interesada en la tecnología y la informática. A los 16 años, comencé a explorar el mundo de la programación y creé mi propio blogspot personalizado con HTML y CSS. Esta experiencia me abrió los ojos al poder de la programación para crear soluciones efectivas y estéticamente atractivas.
@@ -19,4 +20,8 @@ Gracias por visitar mi perfil y espero contar contigo en un futuro no muy lejano
 [![C](https://img.shields.io/badge/-blue?logo=c)](https://www.learn-c.org/)
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
-![lenguajes mas usados](https://github-readme-stats.vercel.app/api/top-langs/?username=abbyenredes&layout=compact&theme=radical)
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abbyenredes&show_icons=true&theme=radical" width="350px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbyenredes&layout=compact&theme=radical" width="350px"/>
+</div>
