@@ -25,4 +25,4 @@ Gracias por visitar mi perfil y espero contar contigo en un futuro no muy lejano
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbyenredes&layout=compact&theme=radical" width="350px"/>
 </div>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abbyenredes?cardType=level&theme=flag-india&fontFamily=Antonio&preferLogin=false)](https://git.io/awesome-stats-card)
+
